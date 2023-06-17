@@ -1,0 +1,7 @@
+{
+  "name": "menu_component",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
